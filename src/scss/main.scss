@@ -1,8 +1,14 @@
-// GENERAL SETTINGS
-@import 'partials/commons';
-
 // GENERAL VARS
 @import 'partials/vars';
 
-// GENERAL HEADER
-@import 'partials/header'
+// GENERAL SETTINGS
+@import 'partials/commons';
+
+// MAIN HEADER
+@import 'partials/header';
+
+// MAIN SECTION
+@import 'partials/main';
+
+// MAIN FOOTER
+@import 'partials/footer';
